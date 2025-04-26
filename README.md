@@ -4,8 +4,6 @@
 
 AI Vision Assistant is a modern desktop application that combines real-time camera feed with advanced AI vision capabilities. This application allows users to ask questions about what their camera sees and receive intelligent responses in both text and speech formats.
 
-![AI Vision Assistant Screenshot](https://placeholder-for-screenshot.png)
-
 ## Features
 
 - **Real-time Camera Analysis**: Process live camera feed using computer vision
